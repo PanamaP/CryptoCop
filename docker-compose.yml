@@ -1,0 +1,43 @@
+version: "3.9"
+networks:
+  cryptocop-network:
+    driver: bridge
+services:
+  rabbitmq:
+    image: rabbitmq:3.8-management-alpine
+    container_name: 'rabbitmq'
+    environment:
+      RABBITMQ_DEFAULT_USER: "guest"
+      RABBITMQ_DEFAULT_PASS: "guest"
+    ports:
+      - 5672:5672
+      - 15672:15672
+    restart: unless-stopped
+    networks:
+      - cryptocop-network
+  cryptocop-api:
+    build: ./Cryptocop.Software.API
+    container_name: cryptocop-API
+    ports:
+      - 5000:80
+    networks:
+      - cryptocop-network
+    depends_on:
+      - rabbitmq
+  cryptocop-email:
+    build: ./cryptocop-emails
+    container_name: cryptocop-emails
+    networks:
+      - cryptocop-network
+    depends_on:
+      - rabbitmq
+  cryptocop-payments:
+    build: ./cryptocop-payments
+    container_name: cryptocop-payments
+    networks:
+      - cryptocop-network
+    depends_on:
+      - rabbitmq
+
+
+

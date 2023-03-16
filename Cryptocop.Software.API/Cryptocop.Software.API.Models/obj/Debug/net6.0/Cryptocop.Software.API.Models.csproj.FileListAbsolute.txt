@@ -1,0 +1,24 @@
+F:\Users\elfar\Desktop\HR\Haust2022\T-514-VEFT\Final Assignment - Cryptocop\template\template\Cryptocop.Software.API\Cryptocop.Software.API.Models\bin\Debug\net6.0\Cryptocop.Software.API.Models.deps.json
+F:\Users\elfar\Desktop\HR\Haust2022\T-514-VEFT\Final Assignment - Cryptocop\template\template\Cryptocop.Software.API\Cryptocop.Software.API.Models\bin\Debug\net6.0\Cryptocop.Software.API.Models.dll
+F:\Users\elfar\Desktop\HR\Haust2022\T-514-VEFT\Final Assignment - Cryptocop\template\template\Cryptocop.Software.API\Cryptocop.Software.API.Models\bin\Debug\net6.0\Cryptocop.Software.API.Models.pdb
+F:\Users\elfar\Desktop\HR\Haust2022\T-514-VEFT\Final Assignment - Cryptocop\template\template\Cryptocop.Software.API\Cryptocop.Software.API.Models\obj\Debug\net6.0\Cryptocop.Software.API.Models.csproj.AssemblyReference.cache
+F:\Users\elfar\Desktop\HR\Haust2022\T-514-VEFT\Final Assignment - Cryptocop\template\template\Cryptocop.Software.API\Cryptocop.Software.API.Models\obj\Debug\net6.0\Cryptocop.Software.API.Models.GeneratedMSBuildEditorConfig.editorconfig
+F:\Users\elfar\Desktop\HR\Haust2022\T-514-VEFT\Final Assignment - Cryptocop\template\template\Cryptocop.Software.API\Cryptocop.Software.API.Models\obj\Debug\net6.0\Cryptocop.Software.API.Models.AssemblyInfoInputs.cache
+F:\Users\elfar\Desktop\HR\Haust2022\T-514-VEFT\Final Assignment - Cryptocop\template\template\Cryptocop.Software.API\Cryptocop.Software.API.Models\obj\Debug\net6.0\Cryptocop.Software.API.Models.AssemblyInfo.cs
+F:\Users\elfar\Desktop\HR\Haust2022\T-514-VEFT\Final Assignment - Cryptocop\template\template\Cryptocop.Software.API\Cryptocop.Software.API.Models\obj\Debug\net6.0\Cryptocop.Software.API.Models.csproj.CoreCompileInputs.cache
+F:\Users\elfar\Desktop\HR\Haust2022\T-514-VEFT\Final Assignment - Cryptocop\template\template\Cryptocop.Software.API\Cryptocop.Software.API.Models\obj\Debug\net6.0\Cryptocop.Software.API.Models.dll
+F:\Users\elfar\Desktop\HR\Haust2022\T-514-VEFT\Final Assignment - Cryptocop\template\template\Cryptocop.Software.API\Cryptocop.Software.API.Models\obj\Debug\net6.0\refint\Cryptocop.Software.API.Models.dll
+F:\Users\elfar\Desktop\HR\Haust2022\T-514-VEFT\Final Assignment - Cryptocop\template\template\Cryptocop.Software.API\Cryptocop.Software.API.Models\obj\Debug\net6.0\Cryptocop.Software.API.Models.pdb
+F:\Users\elfar\Desktop\HR\Haust2022\T-514-VEFT\Final Assignment - Cryptocop\template\template\Cryptocop.Software.API\Cryptocop.Software.API.Models\obj\Debug\net6.0\ref\Cryptocop.Software.API.Models.dll
+F:\Users\elfar\Desktop\e\CryptoCop\CryptoCop\Cryptocop.Software.API\Cryptocop.Software.API.Models\bin\Debug\net6.0\Cryptocop.Software.API.Models.deps.json
+F:\Users\elfar\Desktop\e\CryptoCop\CryptoCop\Cryptocop.Software.API\Cryptocop.Software.API.Models\bin\Debug\net6.0\Cryptocop.Software.API.Models.dll
+F:\Users\elfar\Desktop\e\CryptoCop\CryptoCop\Cryptocop.Software.API\Cryptocop.Software.API.Models\bin\Debug\net6.0\Cryptocop.Software.API.Models.pdb
+F:\Users\elfar\Desktop\e\CryptoCop\CryptoCop\Cryptocop.Software.API\Cryptocop.Software.API.Models\obj\Debug\net6.0\Cryptocop.Software.API.Models.csproj.AssemblyReference.cache
+F:\Users\elfar\Desktop\e\CryptoCop\CryptoCop\Cryptocop.Software.API\Cryptocop.Software.API.Models\obj\Debug\net6.0\Cryptocop.Software.API.Models.GeneratedMSBuildEditorConfig.editorconfig
+F:\Users\elfar\Desktop\e\CryptoCop\CryptoCop\Cryptocop.Software.API\Cryptocop.Software.API.Models\obj\Debug\net6.0\Cryptocop.Software.API.Models.AssemblyInfoInputs.cache
+F:\Users\elfar\Desktop\e\CryptoCop\CryptoCop\Cryptocop.Software.API\Cryptocop.Software.API.Models\obj\Debug\net6.0\Cryptocop.Software.API.Models.AssemblyInfo.cs
+F:\Users\elfar\Desktop\e\CryptoCop\CryptoCop\Cryptocop.Software.API\Cryptocop.Software.API.Models\obj\Debug\net6.0\Cryptocop.Software.API.Models.csproj.CoreCompileInputs.cache
+F:\Users\elfar\Desktop\e\CryptoCop\CryptoCop\Cryptocop.Software.API\Cryptocop.Software.API.Models\obj\Debug\net6.0\Cryptocop.Software.API.Models.dll
+F:\Users\elfar\Desktop\e\CryptoCop\CryptoCop\Cryptocop.Software.API\Cryptocop.Software.API.Models\obj\Debug\net6.0\refint\Cryptocop.Software.API.Models.dll
+F:\Users\elfar\Desktop\e\CryptoCop\CryptoCop\Cryptocop.Software.API\Cryptocop.Software.API.Models\obj\Debug\net6.0\Cryptocop.Software.API.Models.pdb
+F:\Users\elfar\Desktop\e\CryptoCop\CryptoCop\Cryptocop.Software.API\Cryptocop.Software.API.Models\obj\Debug\net6.0\ref\Cryptocop.Software.API.Models.dll
