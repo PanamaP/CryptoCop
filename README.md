@@ -109,6 +109,7 @@ Now you can use the docker command from below:
   ```
   http://localhost:5000/swagger/index.html
   ```
+  <img src="images/swaggerUI.png">
 
 ## Roadmap
 
