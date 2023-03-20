@@ -27,7 +27,7 @@ Email service which is written in python, sends a confirmation email to the user
 
 RabbitMQ works as a glue between the other services to communicate with each other via AMQP.
 
-Postgreq (elephantSql) is used to store, Users, hashedPasswords, addresses, JwtTokens, Orders, OrderItems, PaymentCards (censored) and ShoppingCartItems.
+Postgresql (elephantSql) is used to store, Users, hashedPasswords, addresses, JwtTokens, Orders, OrderItems, PaymentCards (censored) and ShoppingCartItems.
 
 Then finally Docker is used to combine all these services into a single container.
 
@@ -45,12 +45,11 @@ Then finally Docker is used to combine all these services into a single containe
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
+List of things you need to use the software and how to install them.
 
 * Docker
   You will need to install docker to build the project into a single container.
@@ -62,7 +61,7 @@ This is an example of how to list things you need to use the software and how to
     "CryptocopConnectionString": "SQLHostStringHERE"
   },
   ```
-  If you go with elephantsql like i did, the string you get will look like this:
+  If you go with elephantsql like i did, then your string will look like this:
   ```
   postgres://username:password@lucky.db.elephantsql.com/username
   ```
@@ -72,7 +71,7 @@ This is an example of how to list things you need to use the software and how to
   ```
   
 * Cryptocop-emails
-  If you want to be able to send an email, you will have to add your own service. I used mailgun, you will see comments      referencing how it should look inside the code. 
+  If you want to be able to send an email, you will have to add your own service. I used mailgun, you will see the python comments referencing how it should look inside the code. 
   ```python
   email_address = "EMAILSERVICEGOESHERE"   #Example: https://api.mailgun.net/v3/sandboxa*********.mailgun.org/messages
   email_auth = "EMAILAUTHCODE"
